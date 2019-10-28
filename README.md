@@ -23,3 +23,12 @@ DeepMind’s goal for this project was to see if machine learning was capable of
 TenCent also developed a pair of bot’s using the environment and published a paper with their findings here: https://arxiv.org/abs/1809.07193
 
 Unlike DeepMind, TenCent actually released their modified version of the PySC2 environment and code for their bots which can be found on their Git here: https://github.com/Tencent/TStarBots
+
+## Author
+**Eric Born**
+
+[**PORTFOLIO**](https://ericborn.github.io)
+
+[**GITHUB**](https://github.com/ericborn)
+
+[**BLOG**](https://medium.com/@eric.born85)
